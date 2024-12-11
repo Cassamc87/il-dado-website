@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600">
+  <g fill="#556B2F">
+    <!-- Text "IL DADO" -->
+    <path d="M100 50 H400 V100 H100 Z"/>
+    <!-- Glass with character -->
+    <path d="M150 150 H350 V450 H150 Z"/>
+    <!-- Text "FOOD • DRINK • MORE" -->
+    <path d="M50 500 H450 V550 H50 Z"/>
+  </g>
+</svg>
